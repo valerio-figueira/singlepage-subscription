@@ -104,8 +104,8 @@ ul li{
 }
 .purchase-btn:hover{
     text-shadow: 1px 1px 1px #00000085;
-    box-shadow: 0px 0px 5px 5px #00000034, inset 0px 0px 10px 5px #00000034;
-    background-color: #d7ff23;
+    box-shadow: 0px 0px 10px 3px #00000034, inset 0px 0px 10px 5px #00000034;
+    background-color: #cae842;
 }
 
 @media screen and (max-width: 790px){
